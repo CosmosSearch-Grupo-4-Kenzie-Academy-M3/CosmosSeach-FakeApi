@@ -6,6 +6,46 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "bruno@mail.com",
+      "password": "$2a$10$u1OyBG6Lo1p7AtNGBnk9I.Df8fbMTxl/l7PuUhbd.hjT2nJklRkk6",
+      "name": "Bruno",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "title": "Zoro Bloodline",
+      "body": "Text...",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "tile": "Teste",
+      "body": "Testando",
+      "userId": "2",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "text": "comment",
+      "postId": 1,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "text": "Teste",
+      "postId": "1",
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "text": "Teste",
+      "postId": "2",
+      "userId": "2",
+      "id": 3
     }
   ]
 }

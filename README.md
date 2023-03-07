@@ -22,3 +22,19 @@ POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+## Post
+
+POST /posts (Auth) <br/>
+GET /posts
+
+Com o método POST desse endpoint registra-se um novo post do usuário no banco de dados, necessitando que o usuário esteja logado para o mesmo
+Já com o método GET desse endpoint, busca-se todos os posts no sistema, onde todos podem ler os mesmos.
+
+## Comments
+
+POST /comments (Auth) <br/>
+GET /comments
+
+Com o método POST desse endpoint registra-se um novo comentário do usuário no post de outro usuário ou do próprio usuário no banco de dados, necessitando que o usuário esteja logado para o mesmo
+Com o método GET desse endpoint, busca-se todos os comentários no post especifíco, onde o usuário precisar esta logado, para ler o mesmo.
