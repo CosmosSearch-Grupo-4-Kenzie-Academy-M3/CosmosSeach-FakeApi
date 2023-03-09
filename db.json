@@ -34,13 +34,17 @@
       "title": "Zoro Bloodline",
       "body": "Text...",
       "userId": 1,
-      "id": 1
+      "id": 1,
+      "name": "Kenzinho",
+      "topic": "Astrofísica"
     },
     {
       "tile": "Teste",
       "body": "Testando",
       "userId": "2",
-      "id": 2
+      "id": 2,
+      "name": "Bruno",
+      "topic": "Astrofísica"
     }
   ],
   "comments": [
