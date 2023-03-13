@@ -5,28 +5,36 @@
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
       "age": 38,
-      "id": 1
+      "id": 1,
+      "postsLikeds": [
+        1
+      ]
     },
     {
       "email": "bruno@mail.com",
       "password": "$2a$10$u1OyBG6Lo1p7AtNGBnk9I.Df8fbMTxl/l7PuUhbd.hjT2nJklRkk6",
       "name": "Bruno",
       "age": 31,
-      "id": 2
+      "id": 2,
+      "postsLikeds": [
+        1
+      ]
     },
     {
       "email": "mateus@mail.com",
       "password": "$2a$10$gX9Awn9.NrVVzaioQ8YPguRfc/WhPLhO.boLQWexPSPbRh3cblkAW",
       "name": "Mateus",
       "age": 31,
-      "id": 3
+      "id": 3,
+      "postsLikeds": []
     },
     {
       "email": "admin@mail.com",
       "password": "$2a$10$ZugNz5X0KksRYjcL52wfoety1QROSBHzx/XSKNF/rnEBRguTo3QcS",
       "name": "Admin",
       "age": 56,
-      "id": 4
+      "id": 4,
+      "postsLikeds": []
     }
   ],
   "posts": [
@@ -38,7 +46,6 @@
       "name": "Kenzinho",
       "topic": "Astrofísica",
       "date": "11/02/17"
-      
     },
     {
       "title": "Teste",
@@ -75,13 +82,14 @@
   ],
   "likes": [
     {
+      "id": 1,
       "qnt": 21,
       "postId": 1
     },
     {
+      "id": 2,
       "qnt": 12,
       "postId": 2
     }
-
   ]
 }
