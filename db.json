@@ -11,7 +11,22 @@
       "email": "bruno@mail.com",
       "password": "$2a$10$u1OyBG6Lo1p7AtNGBnk9I.Df8fbMTxl/l7PuUhbd.hjT2nJklRkk6",
       "name": "Bruno",
+      "age": 31,
       "id": 2
+    },
+    {
+      "email": "mateus@mail.com",
+      "password": "$2a$10$gX9Awn9.NrVVzaioQ8YPguRfc/WhPLhO.boLQWexPSPbRh3cblkAW",
+      "name": "Mateus",
+      "age": 31,
+      "id": 3
+    },
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$ZugNz5X0KksRYjcL52wfoety1QROSBHzx/XSKNF/rnEBRguTo3QcS",
+      "name": "Admin",
+      "age": 56,
+      "id": 4
     }
   ],
   "posts": [
@@ -19,13 +34,17 @@
       "title": "Zoro Bloodline",
       "body": "Text...",
       "userId": 1,
-      "id": 1
+      "id": 1,
+      "name": "Kenzinho",
+      "topic": "Astrofísica"
     },
     {
       "title": "Teste",
       "body": "Testando",
       "userId": "2",
-      "id": 2
+      "id": 2,
+      "name": "Bruno",
+      "topic": "Astrofísica"
     }
   ],
   "comments": [
@@ -33,18 +52,21 @@
       "text": "comment",
       "postId": 1,
       "userId": 2,
+      "name": "Bruno",
       "id": 1
     },
     {
       "text": "Teste",
-      "postId": "1",
-      "userId": "2",
+      "postId": 1,
+      "userId": 2,
+      "name": "Bruno",
       "id": 2
     },
     {
       "text": "Teste",
-      "postId": "2",
-      "userId": "2",
+      "postId": 2,
+      "userId": 2,
+      "name": "Bruno",
       "id": 3
     }
   ]
