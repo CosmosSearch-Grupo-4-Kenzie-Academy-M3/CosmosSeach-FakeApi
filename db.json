@@ -36,7 +36,9 @@
       "userId": 1,
       "id": 1,
       "name": "Kenzinho",
-      "topic": "Astrofísica"
+      "topic": "Astrofísica",
+      "date": "11/02/22"
+      
     },
     {
       "title": "Teste",
@@ -44,7 +46,8 @@
       "userId": "2",
       "id": 2,
       "name": "Bruno",
-      "topic": "Astrofísica"
+      "topic": "Astrofísica",
+      "date": "11/07/22"
     }
   ],
   "comments": [
