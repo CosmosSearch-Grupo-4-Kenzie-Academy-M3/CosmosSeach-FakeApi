@@ -37,7 +37,7 @@
       "id": 1,
       "name": "Kenzinho",
       "topic": "Astrofísica",
-      "date": "11/02/22"
+      "date": "11/02/17"
       
     },
     {
@@ -47,7 +47,7 @@
       "id": 2,
       "name": "Bruno",
       "topic": "Astrofísica",
-      "date": "11/07/22"
+      "date": "30/07/21"
     }
   ],
   "comments": [
@@ -72,5 +72,16 @@
       "name": "Bruno",
       "id": 3
     }
+  ],
+  "likes": [
+    {
+      "qnt": 21,
+      "postId": 1
+    },
+    {
+      "qnt": 12,
+      "postId": 2
+    }
+
   ]
 }
