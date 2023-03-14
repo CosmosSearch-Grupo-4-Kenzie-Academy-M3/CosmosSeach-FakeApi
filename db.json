@@ -4,7 +4,6 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
       "id": 1,
       "postLikeds": [1]
     },
@@ -12,7 +11,6 @@
       "email": "bruno@mail.com",
       "password": "$2a$10$u1OyBG6Lo1p7AtNGBnk9I.Df8fbMTxl/l7PuUhbd.hjT2nJklRkk6",
       "name": "Bruno",
-      "age": 31,
       "id": 2,
       "postLikeds": [1, 2, 3]
     },
@@ -20,7 +18,6 @@
       "email": "mateus@mail.com",
       "password": "$2a$10$gX9Awn9.NrVVzaioQ8YPguRfc/WhPLhO.boLQWexPSPbRh3cblkAW",
       "name": "Mateus",
-      "age": 31,
       "id": 3,
       "postLikeds": []
     },
@@ -28,7 +25,6 @@
       "email": "admin@mail.com",
       "password": "$2a$10$ZugNz5X0KksRYjcL52wfoety1QROSBHzx/XSKNF/rnEBRguTo3QcS",
       "name": "Admin",
-      "age": 56,
       "id": 4,
       "postLikeds": []
     },
