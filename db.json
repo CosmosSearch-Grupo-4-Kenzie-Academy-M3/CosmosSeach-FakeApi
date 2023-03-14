@@ -6,18 +6,23 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1,
-      "postsLikeds": [
+      "postLikeds": [
         1
       ]
     },
     {
+      "0": 1,
+      "1": 2,
+      "2": 4,
       "email": "bruno@mail.com",
       "password": "$2a$10$u1OyBG6Lo1p7AtNGBnk9I.Df8fbMTxl/l7PuUhbd.hjT2nJklRkk6",
       "name": "Bruno",
       "age": 31,
       "id": 2,
-      "postsLikeds": [
-        1
+      "postLikeds": [
+        1,
+        2,
+        3
       ]
     },
     {
@@ -26,7 +31,7 @@
       "name": "Mateus",
       "age": 31,
       "id": 3,
-      "postsLikeds": []
+      "postLikeds": []
     },
     {
       "email": "admin@mail.com",
@@ -34,7 +39,15 @@
       "name": "Admin",
       "age": 56,
       "id": 4,
-      "postsLikeds": []
+      "postLikeds": []
+    },
+    {
+      "email": "tiaci@mail.com",
+      "password": "$2a$10$HxYkSUxX0MGk.bYRUVJ82e1/PLgUfeFBaC4WRNAi9.5tcdBi18z2O",
+      "name": "tia ci",
+      "confirmPassword": "@Tiaci123",
+      "postLikeds": [],
+      "id": 5
     }
   ],
   "posts": [
@@ -55,6 +68,24 @@
       "name": "Bruno",
       "topic": "Astrofísica",
       "date": "30/07/21"
+    },
+    {
+      "title": "ok",
+      "topic": "ok",
+      "body": "ok",
+      "userId": 2,
+      "name": "Bruno",
+      "date": "13/3/23",
+      "id": 3
+    },
+    {
+      "title": "1",
+      "topic": "1",
+      "body": "1",
+      "userId": 2,
+      "name": "Bruno",
+      "date": "13/3/23",
+      "id": 4
     }
   ],
   "comments": [
@@ -83,13 +114,24 @@
   "likes": [
     {
       "id": 1,
-      "qnt": 21,
+      "qnt": 18,
       "postId": 1
     },
     {
       "id": 2,
-      "qnt": 14,
-      "postId": 2
+      "qnt": 17,
+      "postId": 2,
+      "userId": 2
+    },
+    {
+      "qnt": 4,
+      "postId": 3,
+      "id": 3
+    },
+    {
+      "qnt": 26,
+      "postId": 4,
+      "id": 4
     }
   ]
 }
