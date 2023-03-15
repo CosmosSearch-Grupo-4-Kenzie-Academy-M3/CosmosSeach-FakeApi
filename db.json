@@ -50,7 +50,7 @@
     {
       "title": "About fraction with redshift in the local Universe",
       "body": " It is difficult to accurately identify galaxy mergers and it is an even larger challenge to classify them by their mass ratio or merger stage. In previous work we used a suite of simulated mergers to create a classification technique that uses linear discriminant analysis (LDA) to identify major and minor mergers. Here, we apply this technique to 1.3 million galaxies from the SDSS DR16 photometric catalog and present the probability that each galaxy is a major or minor merger, splitting the classifications by merger stages (early, late, post-coalescence). We present publicly-available imaging predictor values and all of the above classifications for one of the largest-yet samples of galaxies. We measure the major and minor merger fraction (fmerg) and build a mass-complete sample of galaxies, which we bin as a function of stellar mass and redshift. For the major mergers, we find a positive slope of fmergwith stellar mass and negative slope of fmerg with redshift between stellar masses of 10.5<M∗(log M⊙)<11.6 and redshifts of 0.03<z<0.19. We are able to reproduce an artificial positive slope of the major merger fraction with redshift when we do not bin for mass or craft a complete sample, demonstrating the importance of mass completeness and mass binning. We determine that the positive trend of the major merger fraction with stellar mass is consistent with a hierarchical assembly scenario. The negative trend with redshift requires that an additional assembly mechanism, such as baryonic feedback, dominates in the local Universe.",
-      "userId": "2",
+      "userId": 2,
       "id": 2,
       "name": "Bruno",
       "topic": "Astrophysics",
