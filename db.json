@@ -98,18 +98,12 @@
     {
       "id": 2,
       "qnt": 17,
-      "postId": 2,
-      "userId": 2
+      "postId": 2
     },
     {
       "qnt": 4,
       "postId": 3,
       "id": 3
-    },
-    {
-      "qnt": 26,
-      "postId": 4,
-      "id": 4
     }
   ]
 }
