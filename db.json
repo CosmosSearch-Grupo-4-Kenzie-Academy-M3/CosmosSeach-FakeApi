@@ -101,9 +101,9 @@
       "postId": 2
     },
     {
+      "id": 3,
       "qnt": 4,
-      "postId": 3,
-      "id": 3
+      "postId": 3
     }
   ]
 }
