@@ -23,7 +23,8 @@
       "name": "Kenzinho",
       "body": "Dwarf galaxies provide a unique opportunity for studying the evolution of the Milky Way (MW) and the Local Group as a whole. Analysing the running solar apex based on the kinematics of the MW satellites, we discovered an unexpected behaviour of the dipole term of the radial velocity distribution as a function of the galactocentric distance. The nearby satellites (<100 kpc) have a bulk motion with an amplitude of 140-230 km/s while the more distant ones show an isotropic distribution of the radial velocities. Such strong solar apex variations can not be explained by the net rotation of the satellites, as it would require an enormously high rotation rate (~970 km/s). If we exclude the LMC and its most closely related members from our sample, this does not suppress the bulk motion of the nearby satellites strongly enough. Nevertheless, we have demonstrated that the observed peculiar kinematics of the MW satellites can be explained by a perturbation caused by the first infall of the LMC. First, we `undone' the effect of the perturbation by integrating the orbits of the MW satellites backwards (forwards) with (without) massive LMC. It appears that the present-day peculiar enhancement of the solar apex in the inner halo is diminished the most in the case of 2x10^{11} Msun LMC. Next, in self-consistent high-resolution N-body simulations of the MW-LMC interaction, we found that the solar apex shows the observed behaviour only for the halo particles with substantial angular momentum, comparable to that of the MW satellites.",
       "date": "11/02/17",
-      "topic": "Astrophysics of galaxies"
+      "topic": "Astrophysics of galaxies",
+      "likes": 27
     },
     {
       "id": 2,
@@ -32,7 +33,8 @@
       "body": " It is difficult to accurately identify galaxy mergers and it is an even larger challenge to classify them by their mass ratio or merger stage. In previous work we used a suite of simulated mergers to create a classification technique that uses linear discriminant analysis (LDA) to identify major and minor mergers. Here, we apply this technique to 1.3 million galaxies from the SDSS DR16 photometric catalog and present the probability that each galaxy is a major or minor merger, splitting the classifications by merger stages (early, late, post-coalescence). We present publicly-available imaging predictor values and all of the above classifications for one of the largest-yet samples of galaxies. We measure the major and minor merger fraction (fmerg) and build a mass-complete sample of galaxies, which we bin as a function of stellar mass and redshift. For the major mergers, we find a positive slope of fmergwith stellar mass and negative slope of fmerg with redshift between stellar masses of 10.5<M∗(log M⊙)<11.6 and redshifts of 0.03<z<0.19. We are able to reproduce an artificial positive slope of the major merger fraction with redshift when we do not bin for mass or craft a complete sample, demonstrating the importance of mass completeness and mass binning. We determine that the positive trend of the major merger fraction with stellar mass is consistent with a hierarchical assembly scenario. The negative trend with redshift requires that an additional assembly mechanism, such as baryonic feedback, dominates in the local Universe.",
       "name": "Bruno",
       "date": "30/07/21",
-      "topic": "Astrophysics"
+      "topic": "Astrophysics",
+      "likes": 48
     },
     {
       "id": 3,
@@ -41,7 +43,8 @@
       "body": "Robust states emerging at the boundary of a system constitute a hallmark for topological band structures. Other than in closed systems, topologically protected states can occur even in systems with a trivial band structure, if exposed to suitably modulated losses. Here, we study the dissipation-induced emergence of a topological band structure in a non-Hermitian one-dimensional lattice system, realized by arrays of plasmonic waveguides with tailored loss. We obtain direct evidence for a topological edge state that resides in the center of the band gap. By tuning dissipation and hopping, the formation and breakdown of an interface state between topologically distinct regions is demonstrated.",
       "name": "Bruno",
       "date": "13/3/23",
-      "topic": "Quantum physics"
+      "topic": "Quantum physics",
+      "likes": 33
     }
   ],
   "comments": [
